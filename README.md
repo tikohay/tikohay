@@ -1,5 +1,5 @@
-### Hi there, I'm Karahanyan Tigran 👋
+### Hi there, I'm Tigran 👋
 
 - 🌱 I’m currently learning swift
-- 💬 Ask me anything about layout of the design
+- 💬 Let's talk about anything related to programming on Swift 
 - 📫 How to reach me: Gmail - tikohay12@gmail.com
